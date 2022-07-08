@@ -1,0 +1,19 @@
+{
+    "name": "inigopascall/filament-ordered-resource",
+    "description": "Allow resources to be ordered manually",
+    "authors": [
+        {
+            "name": "Inigo Pascall",
+            "email": "inigo@inigowebdesign.co.uk"
+        }
+    ],
+    "require": {
+        "filament/filament": "^2.13"
+    },
+    "autoload": {
+        "psr-4": {
+            "Inigo\\FilamentOrderedResource\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
