@@ -1,6 +1,6 @@
 <?php
 
-namespace Traits;
+namespace InigoPascall\FilamentOrderedResource;
 
 use Illuminate\Database\Eloquent\Model;
 

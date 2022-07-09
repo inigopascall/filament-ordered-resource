@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Inigo\\FilamentOrderedResource\\": "src/"
+            "InigoPascall\\FilamentOrderedResource\\": "src/"
         }
     },
     "minimum-stability": "stable"
